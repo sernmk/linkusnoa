@@ -2,7 +2,7 @@
 JS library for implementing links without the &lt;a> tag
 
 #### How to use:
-1. Connect the library: ```<script src="/js/linkusnoa.js"></script>```
+1. Connect the library: ```<script src="/js/linkusnoa.min.js"></script>```
 
 2. We have tag: ```<a href="https:://your-website.com"></a>```
 
